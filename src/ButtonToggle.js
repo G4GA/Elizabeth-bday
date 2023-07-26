@@ -13,7 +13,14 @@ export default function ButtonToggle() {
       <button onClick={HandleClick} className="Toggle">
         👉🏽¿Me das?👈🏽
       </button>
-      {letterB ? <Letter /> : <></>}
+      {letterB ? (
+        <div className="let">
+          <p>👇👇👇👇</p>
+          <Letter />
+        </div>
+      ) : (
+        <></>
+      )}
     </>
   );
 }

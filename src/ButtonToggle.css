@@ -10,6 +10,16 @@
   border-radius: 5px;
 }
 
+.let > p {
+  text-align: center;
+  border-radius: 5px;
+  width: 100px;
+  height: 25px;
+  position: absolute;
+  bottom: 10%;
+  left: 47%;
+}
+
 /* .Toggle:hover {
   background-color: #ca1b1b;
   animation: grow forwards;
