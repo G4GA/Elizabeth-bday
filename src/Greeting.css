@@ -1,0 +1,28 @@
+.Greeting {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.Greeting > h1 {
+  animation-name: shrink, grow;
+  animation-duration: 5s;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+@keyframes grow {
+  0% {
+    transform: scale(0);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+@media (max-width: 800px) {
+  .Greeting > p .Greeting > h1 {
+    text-align: center;
+  }
+}

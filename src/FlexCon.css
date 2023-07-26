@@ -1,0 +1,13 @@
+.FlexCon {
+  display: flex;
+  height: 100vh;
+  width: auto;
+  justify-content: space-around;
+  align-items: center;
+}
+
+@media (max-width: 800px) {
+  .FlexCon {
+    flex-direction: column;
+  }
+}
