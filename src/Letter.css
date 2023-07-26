@@ -3,3 +3,7 @@
   color: #fff4f4;
   margin-bottom: 0;
 }
+
+.Letter > p {
+  font-size: 1.5rem;
+}
