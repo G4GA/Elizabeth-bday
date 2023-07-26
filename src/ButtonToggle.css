@@ -10,7 +10,7 @@
   border-radius: 5px;
 }
 
-.Toggle:hover {
+/* .Toggle:hover {
   background-color: #ca1b1b;
   animation: grow forwards;
   animation-duration: 1s;
@@ -24,7 +24,7 @@
   100% {
     transform: scale(2);
   }
-}
+} */
 
 @media (max-width: 800px) {
   .Toggle {
