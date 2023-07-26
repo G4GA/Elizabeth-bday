@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Elizabeth-bday/static/css/main.4ea705aa.css",
-    "main.js": "/Elizabeth-bday/static/js/main.36934b5d.js",
+    "main.css": "/Elizabeth-bday/static/css/main.cf1a6a92.css",
+    "main.js": "/Elizabeth-bday/static/js/main.acd41a7e.js",
     "index.html": "/Elizabeth-bday/index.html",
-    "main.4ea705aa.css.map": "/Elizabeth-bday/static/css/main.4ea705aa.css.map",
-    "main.36934b5d.js.map": "/Elizabeth-bday/static/js/main.36934b5d.js.map"
+    "main.cf1a6a92.css.map": "/Elizabeth-bday/static/css/main.cf1a6a92.css.map",
+    "main.acd41a7e.js.map": "/Elizabeth-bday/static/js/main.acd41a7e.js.map"
   },
   "entrypoints": [
-    "static/css/main.4ea705aa.css",
-    "static/js/main.36934b5d.js"
+    "static/css/main.cf1a6a92.css",
+    "static/js/main.acd41a7e.js"
   ]
 }
