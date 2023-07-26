@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Elizabeth-bday/static/css/main.4ea705aa.css",
+    "main.js": "/Elizabeth-bday/static/js/main.36934b5d.js",
+    "index.html": "/Elizabeth-bday/index.html",
+    "main.4ea705aa.css.map": "/Elizabeth-bday/static/css/main.4ea705aa.css.map",
+    "main.36934b5d.js.map": "/Elizabeth-bday/static/js/main.36934b5d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ea705aa.css",
+    "static/js/main.36934b5d.js"
+  ]
+}
